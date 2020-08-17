@@ -14,7 +14,7 @@ In VS Code, click F5, or navigate to Run -> Start Debugging. This will open a ne
 
 After making changes to the code, reload the window via Ctrl+R, or open the Command Palette (Ctrl+Shift+P) and run "Developer: Reload Window". The extension should now be running with the code changes.
 
-For more info, see the (VS Code Extension Docs)[https://code.visualstudio.com/api].
+For more info, see the [VS Code Extension Docs](https://code.visualstudio.com/api).
 
 ## Run ESLint
 
